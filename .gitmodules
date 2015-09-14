@@ -1,3 +1,5 @@
 [submodule "wp-content/themes/anchortheme"]
 	path = wp-content/themes/anchortheme
 	url = https://github.com/anchorwave/anchortheme
+[submodule "anchortheme"]
+	branch = Jameel
